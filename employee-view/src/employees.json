@@ -1,0 +1,72 @@
+[
+    {
+        "employeeId": 1,
+        "firstname": "John",
+        "lastname": "Smith",
+        "title": "department manager",
+        "department": "Human Resources"
+    },
+    {
+        "employeeId": 2,
+        "firstname": "Jane",
+        "lastname": "Doe",
+        "title": "department manager",
+        "department": "Accounting"
+    },
+    {
+        "employeeId": 3,
+        "firstname": "Gary",
+        "lastname": "Weber",
+        "title": "department manager",
+        "department": "Grills and food"
+    },
+    {
+        "employeeId": 4,
+        "firstname": "Corn",
+        "lastname": "Nuts",
+        "title": "Snack food",
+        "department": "Delicious Treats"
+    },
+    {
+        "employeeId": 5,
+        "firstname": "Bill",
+        "lastname": "Burr",
+        "title": "Source of Anger",
+        "department": "Human Resources"
+    },
+    {
+        "employeeId": 6,
+        "firstname": "Bruce",
+        "lastname": "Lee",
+        "title": "CEO of Chuck Norris",
+        "department": "Chuck Norris Handlers Department"
+    },
+    {
+        "employeeId": 7,
+        "firstname": "Chuck",
+        "lastname": "Norris",
+        "title": "CEO of Kung Fu",
+        "department": "Warrior Department"
+    },
+    {
+        "employeeId": 8,
+        "firstname": "Casey",
+        "lastname": "Anthony",
+        "title": "Quality control",
+        "department": "Grills and food and Picnic Blankets"
+    },
+    {
+        "employeeId": 9,
+        "firstname": "Lindsay",
+        "lastname": "Lohan",
+        "title": "department manager",
+        "department": "Picnic Blankets"
+    },
+    {
+        "employeeId": 10,
+        "firstname": "Sheb",
+        "lastname": "Beb",
+        "title": "grills product manager",
+        "department": "Grills and food"
+    }
+]
